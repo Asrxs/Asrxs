@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Kyan</h1>
 
 # 💫 About Me:
 I am a second year student in Software development, passionate about learning stuff in the IT-sector
