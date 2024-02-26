@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a second year student in Software development, passionate about learning stuff in the IT-sector
 
-#🚀 What I'm Up To
+🚀 What I'm Up To
 🔭 I’m currently working on Back-end and computer science<br>🤖 Also focusing on front-end projects with html css and javascript
 
 
