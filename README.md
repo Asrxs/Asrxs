@@ -19,6 +19,3 @@ I am a second year student in Software development, passionate about learning st
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.linkedin.com/in/kyanc/) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
