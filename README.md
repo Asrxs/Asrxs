@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋 I'm Kyan</h1>
 
 # 💫 About Me:
-I am a second year student in Software development, passionate about learning stuff in the IT-sector
+I'm Kyan, a software development student with a passion for technology especially data, web development, cybersecurity & AI. Proficient in Python, Javascript, CSS & HTML. I love creating  solutions and continually expanding my skills. Connect with me on LinkedIn
+
 
 # 🚀 What I'm Up To
-🔭 I’m currently working on Back-end and computer science<br>🤖 Also focusing on front-end projects with html css and javascript
+🔭 Currently looking for projects that could make my personal life easier (currently doing in the progress of making). I'm mainly focused on improving my back-end skillsI’m currently working on Back-end<br>🤖 Also focusing on front-end projects with html css and javascript
 
 
 ## 🌐 Connect with me:
